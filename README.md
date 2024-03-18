@@ -23,5 +23,5 @@ c. Normalize the images in the dataset and modify the corresponding data in the 
 This work is based on weiweisong's DHCNN model.
 https://github.com/weiweisong415/Demo_DHCNN_for_TGRS2021
 
-The dataset used in this work is from the public dataset provided by J, ARUN PANDIAN et al.
+The dataset used in this work is based on the public dataset provided by J, ARUN PANDIAN et al.
 https://data.mendeley.com/datasets/tywbtsjrjv/1
