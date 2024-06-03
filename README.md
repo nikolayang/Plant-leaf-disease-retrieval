@@ -16,3 +16,5 @@ FV,DHCNN.py
 a. Extract the compressed package of plant images from the dataset file and put it into \data directory.
 b. Modify the number of classifications and file directory in the FV,DHCNN.py file.
 c. Normalize the images in the dataset and modify the corresponding data in the FV,DHCNN.py file.
+
+This work is based on the work of Song, Weiwei et al.(DHCNN)
